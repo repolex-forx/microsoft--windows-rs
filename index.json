@@ -1,0 +1,16 @@
+{
+  "org": "microsoft",
+  "repo": "windows-rs",
+  "versions": [
+    {
+      "commit": "e4bc9e32508a5de57c771d58274f74568d52a822",
+      "tag": "0.20.1",
+      "parsed_at": "2026-11-26T05:00:21.425545+00:00"
+    },
+    {
+      "commit": "65c0c07b5b88ac031cf56acddd9f892efee1634a",
+      "tag": "73",
+      "parsed_at": "2026-11-22T17:26:39.794432+00:00"
+    }
+  ]
+}
